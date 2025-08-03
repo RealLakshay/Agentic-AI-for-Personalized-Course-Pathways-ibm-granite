@@ -66,5 +66,5 @@ Follow the PDF guide titled **"Agentic AI on IBM Cloud 2.pdf"** for detailed ste
 
 ---
 
-> 📄 *Note: This project is academic in nature. No certificates or GitHub slide links are included.*
+For leaning how to do the complete project on ibm cloud open the Agentic AI on IBM Cloud pdf
 
